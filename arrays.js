@@ -3,6 +3,7 @@
 const myarr=[0,1,2,3,4,5]
 const myheroes=['luffy','naruto','ichigo']
 console.log(myarr[0]);      // accessing elements through array indexes
+console.log(myheroes[1]);
 
 // second way of declaring array
 const arr=new Array(1,2,3,4)
